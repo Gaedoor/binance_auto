@@ -1,0 +1,11 @@
+[Global]
+binance_api_key="你的binance_api_key"
+binance_secret_key="你的binance_secret_key"
+
+#金额，有最低限制，下面代表6 USDT
+usdt_quantity=6
+
+#交易对，格式：BOMEUSDT
+symbol="BOMEUSDT"
+
+
